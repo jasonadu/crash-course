@@ -9,7 +9,7 @@
     * python
 
 [访问网址](http://192.168.31.188:8888/notebooks/ipynb/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%89%8B%E6%9C%BA%E8%BF%90%E8%A1%8Cjupyter.ipynb)
-[初始网址](http://localhost:8888/?token=fab88873b0a8d1aa73bf72c546058a9e0d274c30b98ca7cb)
+[初始网址](http://localhost:8888/?token=4aeab0593199bfb6dfa3ccc3f8450c6f9e35e7b93d2399d3)
 
 ```python
 import matplotlib.pylab as pylab;
