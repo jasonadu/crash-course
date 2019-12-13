@@ -1,5 +1,5 @@
 ### google AI crash course
-### 手机安装linux终端
+### 手机安装linux终端Termux
 #### [如何安装jupyter](https://github.com/ravish0007/AndroJupy/blob/master/README.md)
 * 有些lib没有找到，
 * [现有支持库](https://github.com/termux/termux-packages/tree/master/packages)
