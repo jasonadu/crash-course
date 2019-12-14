@@ -3,7 +3,7 @@
 * 每周进行一次分享
   * 大家一起参与，轮换制度
   * 实践出真知
-* 第一期：[【机器学习项目】第1课 音乐推荐系统_(上)](https://github.com/jasonadu/crash-course/blob/master/ML-group/README.md) 
+* 第一期：[【机器学习项目】第1课 音乐推荐系统_(上)](https://github.com/jasonadu/crash-course/blob/master/ML-group/第一期/readme.md) 
   * 分享者：Jason
   * 时间：2019年12月19日
 
