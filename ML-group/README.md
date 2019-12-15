@@ -33,3 +33,5 @@
   - 在线参考
     - [基础算法参考](https://github.com/jasonadu/ML-NLP/blob/master/README.md)
     - [深度学习-花书](http://www.deeplearningbook.org) [中文版](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf) 优点：很红。。。有基础知识介绍
+    - [kaggle案例实战班](https://www.bilibili.com/video/av42834527) 
+      - [来源](https://www.julyedu.com/course/getDetail/54)
