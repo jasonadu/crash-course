@@ -72,11 +72,27 @@ Building wheels for collected packages: scikit-surprise
 ```
 终于看到了VC++RT问题，下载并安装[Microsoft Visual C++ Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16)
 
-需要占用500M的磁盘空间
+需要占用500M的磁盘空间，然并卵。。。
+so, back to all mighty Google![google jupyter notebook](https://colab.research.google.com)
 
 
 
 #### refers
 
 [相似度参考](https://surprise.readthedocs.io/en/stable/similarities.html)
+
+[google jupyter notebook](https://colab.research.google.com)
+
+[glossary](https://developers.google.com/machine-learning/glossary)
+
+[google ML crash-course](https://developers.google.com/machine-learning/crash-course)
+
+[Machine Learning in Action](https://github.com/apachecn/AiLearning)
+
+[推荐算法入门（2）SVD 和 Netflix Prize 的 Funk-SVD 篇](https://zhuanlan.zhihu.com/p/33262521)
+
+[深度学习基础：SVD奇异值分解及其意义](http://shartoo.github.io/SVD-decomponent/)
+[奇异值的物理意义是什么？](https://www.zhihu.com/question/22237507/answer/53804902)
+
+
 
