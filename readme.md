@@ -33,6 +33,9 @@ drwx------ 2 u0_a207 u0_a207 4.0K Dec  8 15:36 storage
 -rw------- 1 u0_a207 u0_a207   16 Dec  8 15:40 test.log
 -rwx------ 1 u0_a207 u0_a207    9 Dec  8 15:43 exe.sh
 lrwxrwxrwx 1 u0_a207 u0_a207   59 Dec  8 23:29 myproject -> /data/data/com.termux/files/home/storage/downloads/project/
+
+[登陆ftp]
+tcpsvd -vE 0.0.0.0 1024 ftpd -w /data/data/com.termux/files/home
 ```
 [github配置ssh key](https://blog.csdn.net/u013778905/article/details/83501204)
 
@@ -42,3 +45,13 @@ lrwxrwxrwx 1 u0_a207 u0_a207   59 Dec  8 23:29 myproject -> /data/data/com.termu
 $\Gamma(n) = (n-1)!\quad\forall
 n\in\mathbb N$
 
+### 如何解决ML学习过程遇到的问题?
+* 看大量书，好像懂了，但是没有实际操作还是不懂。
+* 学习过程遇到大量生僻的专用术语，就应该像我们做项目的时候，遇到不懂的问题应该提出QA票，然后继续学。有时间再对应QA去一一突破。
+* 学习实践首先带有一个好的工具IDE，达到事半功倍的效果
+* 碎片化的时间学习。手机端放下游戏，安装IDE
+* 还有关键的设立计划。工作中有WBS，学习也一样
+* 时间和精力有限的情况下，All in AI。霍金年轻才华横溢毫无作为，但是生病后开始奋斗。上帝把所有门都关闭了，给开了一个窗户！
+* 算法就是对某种问题的解决方案。
+* 每个行业都有着自己约定俗成的一个流程。routine，熟悉后就不在神秘。就像魔法揭开谜底就没意思了
+* 数学难学是因为教育过程中被抽象了。原来的数学是为了解决某个具体问题的。当年牛顿发明微积分是为了解决物理问题，而我们学习微积分是为了考试。
