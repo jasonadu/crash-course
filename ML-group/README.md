@@ -19,6 +19,7 @@
 - 国内各种培训机构
   - DataGuru炼数成金
     [在日本参加的活动](https://github.com/Ape-Evolution-Seminar/common-material/tree/master/%E6%B4%BB%E5%8A%A8%E8%B5%84%E6%96%99/%E5%85%B6%E4%BB%96)	
+- [ML中的数学基础 唐宇迪](https://b23.tv/av40155030/p1)
 - 书籍
   - 《机器学习》西瓜书 
     - 优点：网红，算法解析，适合学术，当字典用 
